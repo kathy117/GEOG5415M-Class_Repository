@@ -32,6 +32,10 @@ points_list = [
     [  53.79755036197394, -1.5433104537008813,"Kathy's favourite restaurant"],
     [  34.58223767715908, 135.79883198965894, "Kuni's favourite ramen restaurant in Japan"],
     [ 31.473338429173076, 74.46975891032893, "Lanzhou noodles-LCC" ],
+    [ 34.635559760774335, 112.43468890635228, "Kathy's favourite Chinese restaurant"],
+    
+
+    [  53.800350,-1.539687, " Chenxi's favourite Thai Restaurant"],
     [  53.800350,-1.539687, "Chenxis favourite Thai Restaurant"],
 ]
 
